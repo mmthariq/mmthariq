@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile 
 
 ![Header](img/github-header-image.png)
 
