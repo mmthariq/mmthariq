@@ -28,10 +28,10 @@ I'm a student at Politeknik Elektronika Negeri Surabaya. My GitHub profile showc
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/yourusername/">
+  <a href="https://www.instagram.com/mthariiq_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/muhammadthariqhaqkimi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
