@@ -28,7 +28,7 @@ I'm a student at Politeknik Elektronika Negeri Surabaya. My GitHub profile showc
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/mthariiq_/">
+  <a href="https://www.instagram.com/mthariiqh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadthariqhaqkimi/">
