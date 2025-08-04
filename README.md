@@ -3,9 +3,7 @@
   <img src="img/github-header-banner.png" alt="Header" style="width: 100%; max-width: 100%;">
 </p>
 
-## Hello, I'm Thariq 👋
-
-I'm a Informatic Student at Politeknik Elektronika Negeri Surabaya. My GitHub profile showcases my journey through various projects.
+## Hello! I'm Thariq, an Informatics student from PENS with a deep passion for front-end development. I enjoy turning complex problems into beautiful, intuitive, and responsive web interfaces. Currently, I'm focusing on mastering the React ecosystem and exploring modern web technologies
 
 ---
 
