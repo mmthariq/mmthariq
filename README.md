@@ -14,23 +14,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,laravel,tailwind,postgresql,git" />
   </a>
 </p>
-
-- 💻 **Languages:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `SQL`
-
-- 🚀 **Frameworks & Libraries:**
-  - **Front-End:** `React.js`, `Tailwind CSS`
-  - **Back-End:** `Laravel`
-
-- 🗄️ **Databases:**
-  - `PostgreSQL`
-  - `MySQL` 
-
-- 🛠️ **Tools & Platforms:**
-  - `Git` & `GitHub`
-  - `VS Code`
-  - `Postman` 
-  - `Composer` 
-  - `NPM` 
 ---
 
 ### 📱 Connect With Me
