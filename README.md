@@ -3,18 +3,34 @@
   <img src="img/github-header-banner.png" alt="Header" style="width: 100%; max-width: 100%;">
 </p>
 
-## Hello! I'm Thariq, an Informatics student from PENS with a deep passion for front-end development. I enjoy turning complex problems into beautiful, intuitive, and responsive web interfaces. Currently, I'm focusing on mastering the React ecosystem and exploring modern web technologies
+## Hello! I'm Thariq, an Informatics student from PENS with a deep passion for front-end development. I enjoy turning complex problems into beautiful, intuitive, and responsive web interfaces. Currently, I'm focusing on mastering the React and Laravel ecosystem and exploring modern web technologies
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,laravel,postgresql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,laravel,tailwind,postgresql,git" />
   </a>
 </p>
 
+- 💻 **Languages:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `SQL`
+
+- 🚀 **Frameworks & Libraries:**
+  - **Front-End:** `React.js`, `Tailwind CSS`
+  - **Back-End:** `Laravel`
+
+- 🗄️ **Databases:**
+  - `PostgreSQL`
+  - `MySQL` 
+
+- 🛠️ **Tools & Platforms:**
+  - `Git` & `GitHub`
+  - `VS Code`
+  - `Postman` 
+  - `Composer` 
+  - `NPM` 
 ---
 
 ### 📱 Connect With Me
