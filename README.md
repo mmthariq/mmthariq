@@ -9,16 +9,15 @@
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,laravel,tailwind,postgresql,git" />
   </a>
 </p>
+
 ---
 
 ### 📱 Connect With Me
 
-<p align="center">
   <a href="https://www.instagram.com/ccelever">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
