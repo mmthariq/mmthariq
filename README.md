@@ -5,7 +5,7 @@
 
 ## Hello, I'm Thariq 👋
 
-I'm a student at Politeknik Elektronika Negeri Surabaya. My GitHub profile showcases my journey through various projects.
+I'm a Informatic Student at Politeknik Elektronika Negeri Surabaya. My GitHub profile showcases my journey through various projects.
 
 ---
 
