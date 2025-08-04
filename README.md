@@ -22,7 +22,7 @@ I'm a Informatic Student at Politeknik Elektronika Negeri Surabaya. My GitHub pr
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/mthariiqh">
+  <a href="https://www.instagram.com/ccelever">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
