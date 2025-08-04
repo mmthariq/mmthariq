@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="img/github-header-image.png" alt="Header" style="width: 100%; max-width: 100%;">
+  <img src="img/github-header-banner.png" alt="Header" style="width: 100%; max-width: 100%;">
 </p>
 
 ## Hello, I'm Thariq 👋
