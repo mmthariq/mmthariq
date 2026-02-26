@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="http://linkedin.com/in/muhammadthariqhaqkimi">
+  <a href="http://linkedin.com/in/muhammad-thariq-haqkimi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
